@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617693166125",
+    "project_id": "schoolerp08",
+    "storage_bucket": "schoolerp08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617693166125:android:37cd7b7a19f16a059156a4",
+        "android_client_info": {
+          "package_name": "com.example.schoolerp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjycJPDDZglLGZAkqmgQ5abzx1uW3n-E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

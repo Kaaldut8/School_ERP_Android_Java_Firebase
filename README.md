@@ -21,9 +21,6 @@ A full-stack Android application developed using Java and Firebase.
 - REST-inspired backend logic
 - Real-time cloud database
 
-## Screenshots
-(Add screenshots in /screenshots folder)
-
 ## Future Improvements
 - Push notifications
 - Cloud Functions integration
